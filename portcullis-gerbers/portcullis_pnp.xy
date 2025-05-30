@@ -1,0 +1,53 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=portcullis
+# Date=17:15:21
+# CreatedBy=Fritzing 1.0.4.2024-10-07.1.0.4rc1-4-ga8c6ef7c
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+100K,"100k;;;;;0.25W;;;","THT",209.601,2043.19,-90,Top,THT
+104,";100nF;;16V;;;;;","200 mil [THT, multilayer]",620.904,3521.46,-45,Top,THT
+J4,";;;;;;;;","THT",68.5044,2019.05,0,Top,THT
+1uF1,";1µF;;35V;;;;;","100 mil [THT, electrolytic]",582.127,348.008,-90,Bottom,THT
+4148,";;;;;;;;","diode-1n4148",226.016,1669.44,0,Top,SMT
+CV1,";;;;;;;;","",897.698,3357.76,90,Top,MANUAL
+4148,";;;;;;;;","diode-1n4148",977.127,2264.77,180,Top,SMT
+REL,";;;;;0.5W;;;","THT",901.434,1346.71,-90,Top,THT
+Out2,";;;;;;;;","",896.776,527.793,90,Top,MANUAL
+1uF,";1µF;;35V;;;;;","100 mil [THT, electrolytic]",1069.02,4000.34,0,Top,THT
+CV2,";;;;;;;;","",896.776,173.482,90,Top,MANUAL
+4148,";;;;;;;;","diode-1n4148",66.3156,894.108,-90,Top,SMT
+ATT,";;;;;0.5W;;;","THT",278.652,1340.37,-90,Top,THT
+4148,";;;;;;;;","diode-1n4148",591.127,873.33,90,Top,SMT
+103,";10nF;;16V;;;;;","200 mil [THT, multilayer]",574.127,3035.56,45,Top,THT
+REL,";;;;;0.5W;;;","THT",906.434,2574.53,-90,Top,THT
+ATT,";;;;;0.5W;;;","THT",273.096,2574.26,-90,Top,THT
+J3,";;;;;;;;","THT",595.722,4158.43,90,Bottom,THT
+IN1,";;;;;;;;","",285.198,3712.34,-90,Top,MANUAL
+4148,";;;;;;;;","diode-1n4148",932.682,2728.22,90,Bottom,SMT
+4148,";;;;;;;;","diode-1n4148",118.13,1997.44,90,Top,SMT
+4.7k,"4.7k;;;;;0.25W;;;","THT",1128.22,902.352,-90,Top,THT
+100uF,";0.1mF;;35V;;;;;","100 mil [THT, electrolytic]",597.682,3890.23,180,Top,THT
+106,";10µF;;16V;;;;;","200 mil [THT, multilayer]",567.904,2280.67,-45,Top,THT
+100K,"100k;;;;;0.25W;;;","THT",771.938,1718.07,180,Top,THT
+4148,";;;;;;;;","diode-1n4148",262.904,2272,180,Top,SMT
+TL074,";;;;;;;;","DIP (Dual Inline)",613.69,1967.36,-90,Top,THT
+Out1,";;;;;;;;","",897.698,3712.34,90,Top,MANUAL
+Vactrol1,";;;;;;;;","",594.43,2984.41,0,Bottom,MANUAL
+IN2,";;;;;;;;","",285.198,530.982,-90,Top,MANUAL
+106,";10µF;;16V;;;;;","200 mil [THT, multilayer]",1042.68,1985.93,-90,Top,THT
+Vactrol2,";;;;;;;;","",599.541,877.302,0,Bottom,MANUAL
+4148,";;;;;;;;","diode-1n4148",590.238,1373.33,-90,Top,SMT
+4.7k,"4.7k;;;;;0.25W;;;","THT",987.993,3125.91,180,Top,THT
+4001,";;;;;;;;","diode-1n4148",226.693,3930.57,0,Top,SMT
+G2,";;;;;;;;","",285.198,176.671,-90,Top,MANUAL
+G1,";;;;;;;;","",285.198,3357.76,-90,Top,MANUAL
